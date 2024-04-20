@@ -36,7 +36,7 @@ This Laravel project is a simple Task Management System that facilitates collabo
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/task-management-system.git
+    git clone https://github.com/monayemislam/task-management-system.git
     cd task-management-system
     ```
 
